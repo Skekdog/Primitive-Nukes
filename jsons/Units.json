@@ -1,11 +1,12 @@
 [
 {
 "name":"Condensed Horse",
-"unitType":"Missile",
+"unitType":"Atomic Bomber",
 "range":3,
 "movement":1,
 "strength":150,
 "rangedStrength":150,
+"requiredResource":"Horses",
 "cost":200,
 "uniques":["Consumes [4] [Horses]","Nuclear weapon of Strength [2]","Blast radius [3]"],
 "attackSound":"nuke"
