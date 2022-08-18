@@ -1,7 +1,7 @@
 [
 {
 "name":"Condensed Horse",
-"unitType":"Atomic Bomber",
+"unitType":"Missile",
 "movement":1,
 "strength":150,
 "rangedStrength":150,
