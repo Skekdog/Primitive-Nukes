@@ -9,7 +9,7 @@
 "cost":200,
 "requiredTech":"Animal Husbandry",
 "requiredResource":"Horses",
-"uniques":["Consumes [12] [Horses]","Nuclear weapon of Strength [0.2]","Self-destructs when attacking"], 
+"uniques":["Consumes [12] [Horses]","Nuclear weapon of Strength [1]","Self-destructs when attacking"], 
 "attackSound":"nuke"
 }
 ]
