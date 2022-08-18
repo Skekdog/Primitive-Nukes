@@ -1,16 +1,13 @@
 [
 {
-"name":"Pocket Sand",
-"unitType":"Barb Bomb",
-"uniqueTo":"Barbarians",
-"sight":3
-"range":10,
-"movement":3,
-"strength":10,
-"rangedStrength":10,
-"cost":40,
-"replaces":"Warrior",
-"uniques":["Nuclear weapon of Strength [2]","Blast radius [2]","Self-destructs when attacking"],
+"name":"Condensed Horse",
+"unitType":"Atomic Bomber",
+"range":3,
+"movement":0,
+"strength":5,
+"rangedStrength":15,
+"cost":200,
+"uniques":["Consumes [4] [Horses]","Nuclear weapon of Strength [1]","Blast radius [1]"],
 "attackSound":"nuke"
 }
 ]
