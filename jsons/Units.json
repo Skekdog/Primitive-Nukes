@@ -4,10 +4,10 @@
 "unitType":"Missile",
 "range":3,
 "movement":1,
-"strength":5,
-"rangedStrength":15,
+"strength":150,
+"rangedStrength":150,
 "cost":200,
-"uniques":["Consumes [4] [Horses]","Nuclear weapon of Strength [1]","Blast radius [1]"],
+"uniques":["Consumes [4] [Horses]","Nuclear weapon of Strength [2]","Blast radius [3]"],
 "attackSound":"nuke"
 }
 ]
