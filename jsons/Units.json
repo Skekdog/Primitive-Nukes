@@ -3,7 +3,7 @@
 "name":"Condensed Horse",
 "unitType":"Missile",
 "range":3,
-"movement":0,
+"movement":1,
 "strength":5,
 "rangedStrength":15,
 "cost":200,
