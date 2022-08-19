@@ -3,13 +3,13 @@
 "name":"Condensed Horse",
 "unitType":"Atomic Bomber",
 "movement":1,
-"strength":150,
-"rangedStrength":150,
+"strength":1,
+"rangedStrength":1,
 "range":4,
-"cost":200,
+"cost":1000,
 "requiredTech":"Animal Husbandry",
 "requiredResource":"Horses",
-"uniques":["Consumes [1] [Horses]","Nuclear weapon of Strength [1]","Self-destructs when attacking"], 
+"uniques":["Consumes [20] [Horses]","Nuclear weapon of Strength [1]","Self-destructs when attacking"], 
 "attackSound":"nuke"
 }
 ]
